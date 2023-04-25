@@ -40,4 +40,3 @@ This app is licensed under the MIT License. See the `LICENSE` file for more info
 
 ---
 
-I hope this revised version is more helpful. Let me know if you have any other questions!
